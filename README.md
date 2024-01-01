@@ -1,6 +1,8 @@
 # Full Stack Developer
 
-Apasionado por la tecnología y la programación. En búsqueda de oportunidades para impulsar mi carrera en el mundo del desarrollo web. Me considero responsable, diligente, innovador y proactivo, con la capacidad para trabajar bajo presión en busca de objetivos. He colaborado en proyectos académicos y personales, lo que me ha permitido desarrollar habilidades de trabajo en equipo, comunicación efectiva y la capacidad para aportar soluciones de manera eficaz.
+Apasionado por la tecnología y la programación. En búsqueda de oportunidades para impulsar mi carrera en el mundo del desarrollo web. Me considero responsable, diligente, innovador y proactivo, con la capacidad para trabajar bajo presión en busca de objetivos.
+
+He colaborado en proyectos académicos y personales, lo que me ha permitido desarrollar habilidades de trabajo en equipo, comunicación efectiva y la capacidad para aportar soluciones de manera eficaz.
 
 ## Habilidades Técnicas
 
