@@ -1,10 +1,12 @@
 # Full Stack Developer
 
-Passionate about technology and programming. In search of opportunities to advance my career in the world of web development. I consider myself responsible, diligent, innovative, and proactive, with the ability to work under pressure to achieve goals. I have collaborated on academic and personal projects, which has allowed me to develop teamwork skills, effective communication, and the ability to contribute solutions effectively.
+Apasionado por la tecnología y la programación. En búsqueda de oportunidades para impulsar mi carrera en el mundo del desarrollo web. Me considero responsable, diligente, innovador y proactivo, con la capacidad para trabajar bajo presión en busca de objetivos. He colaborado en proyectos académicos y personales, lo que me ha permitido desarrollar habilidades de trabajo en equipo, comunicación efectiva y la capacidad para aportar soluciones de manera eficaz.
 
-## Skills
+## Habilidades Técnicas
 
 <p>
+  <img src="https://res.cloudinary.com/dpmw1yvfi/image/upload/v1704135474/github-readme/qngwrs7dkgjedepaf0xo.png" alt="Astro">
+  <img src="https://res.cloudinary.com/dpmw1yvfi/image/upload/v1704135474/github-readme/wv7kominhouhs5hywcui.png" alt="Next.js">
   <img src="https://res.cloudinary.com/dpmw1yvfi/image/upload/v1699566530/github-readme/oyltdbweydqdvbiaeitk.png" alt="HTML">
   <img src="https://res.cloudinary.com/dpmw1yvfi/image/upload/v1699566530/github-readme/pieguztxq1ksicfi94ur.png" alt="CSS">
   <img src="https://res.cloudinary.com/dpmw1yvfi/image/upload/v1699566530/github-readme/rdrqs3eiakn1lv6p6g7i.png" alt="TailwindCSS">
@@ -18,6 +20,6 @@ Passionate about technology and programming. In search of opportunities to advan
   <img src="https://res.cloudinary.com/dpmw1yvfi/image/upload/v1699566530/github-readme/galemrl31faxroghruhk.png" alt="Git">
 </p>
 
-## Contact
+## Contacto
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=angel.lira.098@gmail.com"><img src="https://res.cloudinary.com/dpmw1yvfi/image/upload/v1699566888/github-readme/ip8pev9bzgwor7tmeucw.png" alt="Gmail"></a>
